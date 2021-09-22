@@ -19,9 +19,11 @@ Next, you will need the following packages:
 To obtain them, open a terminal window and change the directory to the project directory by:
 
 On Windows
+
 ```cd \path\to\project\directory```
 
 On Linux
+
 ```cd /path/to/project/directory```
 
 Run the following command:
