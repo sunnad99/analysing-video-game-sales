@@ -4,15 +4,30 @@ The purpose of this project was to understand which video games are the most pop
 
 
 # Dependencies
-To run this notebook, you need the following dependencies:
+## Locally Running Dependencies
+To run the notebook on your system locally, firstly install
+
+`Visual Studio Code`
+Next, you will need the following packages:
 
   * Pandas
   * Numpy
   * Matplotlib
   * Seaborn
- 
-Which can be obtained by running the following command:
 
+To obtain them, open a terminal window and change the directory to the project directory by:
+
+On Windows
+`cd \path\to\project\directory`
+
+On Linux
+`cd /path/to/project/directory`
+
+Run the following command:
 ```
 pip install -r requirements.txt
 ```
+
+## Running on Online Platform (Google Colab)
+# Screenshots
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
