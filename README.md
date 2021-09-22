@@ -13,6 +13,6 @@ To run this notebook, you need the following dependencies:
  
 Which can be obtained by running the following command:
 
-'
+'''
 pip install -r requirements.txt
-'
+'''
