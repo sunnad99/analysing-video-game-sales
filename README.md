@@ -38,5 +38,11 @@ pip install -r requirements.txt
 ```
 
 ## Running on Online Platform (Google Colab)
+If you simply have an account on google, you can just simply head to
+```
+https://colab.research.google.com/notebooks/intro.ipynb
+```
+Click on the "File" tab and in the drop down menu, click "Upload". Here you can just drop the .ipynb file from your computer.
+
 # Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/images/best_platform_per_year.png)
