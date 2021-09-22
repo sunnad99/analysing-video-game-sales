@@ -8,6 +8,7 @@ The purpose of this project was to understand which video games are the most pop
 To run the notebook on your system locally, firstly install
 
 `Visual Studio Code`
+
 Next, you will need the following packages:
 
   * Pandas
@@ -18,10 +19,10 @@ Next, you will need the following packages:
 To obtain them, open a terminal window and change the directory to the project directory by:
 
 On Windows
-`cd \path\to\project\directory`
+```cd \path\to\project\directory```
 
 On Linux
-`cd /path/to/project/directory`
+```cd /path/to/project/directory```
 
 Run the following command:
 ```
