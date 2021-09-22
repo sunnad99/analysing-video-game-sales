@@ -45,4 +45,4 @@ https://colab.research.google.com/notebooks/intro.ipynb
 Click on the "File" tab and in the drop down menu, click "Upload". Here you can just drop the .ipynb file from your computer.
 
 # Screenshots
-![App Screenshot](/images/best_platform_per_year.png)
+![Platform](/images/best_platform_per_year.png "Best Platform Per Year")
