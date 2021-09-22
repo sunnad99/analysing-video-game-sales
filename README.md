@@ -4,3 +4,15 @@ The purpose of this project was to understand which video games are the most pop
 
 
 # Dependencies
+To run this notebook, you need the following dependencies:
+
+  * Pandas
+  * Numpy
+  * Matplotlib
+  * Seaborn
+ 
+Which can be obtained by running the following command:
+
+'
+pip install -r requirements.txt
+'
