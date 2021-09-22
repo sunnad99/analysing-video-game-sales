@@ -7,7 +7,9 @@ The purpose of this project was to understand which video games are the most pop
 ## Locally Running Dependencies
 To run the notebook on your system locally, firstly install
 
-`Visual Studio Code`
+```
+Visual Studio Code
+```
 
 Next, you will need the following packages:
 
@@ -20,11 +22,15 @@ To obtain them, open a terminal window and change the directory to the project d
 
 On Windows
 
-```cd \path\to\project\directory```
+```
+cd \path\to\project\directory
+```
 
 On Linux
 
-```cd /path/to/project/directory```
+```
+cd /path/to/project/directory
+```
 
 Run the following command:
 ```
